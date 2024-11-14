@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1osxYe5TDCY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edominer\\Python Project\\CSharp_with_Python\\PythonC#App\\PythonC#App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edominer\\.nuget\\packages\\python.runtime\\2.7.9\\python.runtime.2.7.9.nupkg.sha512"
+  ],
+  "logs": []
+}

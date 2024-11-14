@@ -1,0 +1,4 @@
+C:\Users\edominer\Python Project\CSharp_with_Python\PythonC#App\obj\Debug\net8.0\PythonC#App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edominer\Python Project\CSharp_with_Python\PythonC#App\obj\Debug\net8.0\PythonC#App.AssemblyInfoInputs.cache
+C:\Users\edominer\Python Project\CSharp_with_Python\PythonC#App\obj\Debug\net8.0\PythonC#App.AssemblyInfo.cs
+C:\Users\edominer\Python Project\CSharp_with_Python\PythonC#App\obj\Debug\net8.0\PythonC#App.csproj.CoreCompileInputs.cache
